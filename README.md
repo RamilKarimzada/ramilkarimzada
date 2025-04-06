@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ramil Karimzada</h1>
-<h3 align="center">A passionate Data Analyst from Azerbaijan</h3>
+## 👋 About Me
 
-- 📝 I regularly write articles on [https://medium.com/@ramil-karimzada](https://medium.com/@ramil-karimzada)
+Hi, I'm a **Data Analyst** and **R Trainer** with a passion for uncovering insights from data and helping others do the same. I specialize in **data cleaning**, **analysis**, and **visualization**, using tools like **R**, **Power BI**, **SQL**, and **Excel**.
 
-- 📫 How to reach me **ramil.karimzada@gmail.com**
+Currently, I work as a Data Analyst and deliver R training sessions to empower others in the field of data science and analytics. I enjoy working on real-world problems, building dashboards, and continuously learning new techniques to solve data challenges.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ramil karimzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramil karimzada" height="30" width="40" /></a>
-</p>
+I'm also interested in **language**, **culture**, and thoughtful **storytelling through data and visuals**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔗 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/ramil-karimzada/)
+- [YouTube](https://www.youtube.com/@ramilkarimzada)
